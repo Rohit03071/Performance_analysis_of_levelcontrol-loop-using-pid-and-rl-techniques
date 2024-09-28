@@ -3,5 +3,5 @@ I and my team worked continuosly throught our last semester to have come with th
 
 It's a pleasure to share this project with you. Though the Project is fully completed and my team has presented this project too in our review but now I'm planning to take this project for the publication but It needs some refinemnets to do before it go for the selection and verifcations procedures.
 
-So From Today Onwards I'll be commiting changes in this project to have a good prduct worth presenting. will be 
+So From Today Onwards I'll be commiting changes in this project to have a good prduct worth presenting to the publication site. Thank you. 
 
